@@ -7,7 +7,7 @@
 
 
       
-## 2주차 : Titanic Top 4% with Ensemble modeling 
+## 3주차 : Titanic Top 4% with Ensemble modeling 
 ###### - Competition 링크 : [ 캐글 링크 ](https://www.kaggle.com/code/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook)   
 
 
