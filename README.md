@@ -4,6 +4,7 @@
 ### - Competition 링크 : [ 캐글 링크 ](https://www.kaggle.com/c/titanic)      
 ### - 참고 자료 링크 : [ 1.Tutorial ](https://kaggle-kr.tistory.com/18?category=868316)
       
-## 2주차 :
+## 2주차 : Titanic Top 4% with Ensemble modeling 
+### - Competition 링크 : [ 캐글 링크 ](https://www.kaggle.com/code/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook)   
 
 
